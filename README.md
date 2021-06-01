@@ -1,2 +1,2 @@
-# Dev--101-Github-exercise
-Practice
+# Dev-101-notes
+
